@@ -1,6 +1,6 @@
 # ISOChrome - Creative Photography Portfolio Template
 
-![ISOChrome Template Preview](https://i.imgur.com/placeholder.jpg)
+![ISOChrome Template Preview](./public/image1.jpg)
 
 ## 🌟 🔗 [LIVE DEMO](https://website-template-06.vercel.app/) 🌟
 
