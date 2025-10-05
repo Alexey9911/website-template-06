@@ -64,6 +64,7 @@ body {
   background-color: #000;
   color: var(--copy);
   overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .page {
