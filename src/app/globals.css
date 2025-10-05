@@ -63,6 +63,7 @@ body {
   font-family: "am";
   background-color: #000;
   color: var(--copy);
+  overflow-x: hidden;
 }
 
 .page {
